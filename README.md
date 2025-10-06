@@ -67,6 +67,7 @@ pip install -r requirements.txt
 insurence_app.py
 ```
 ### Project Structure
+```bash
 Insurance-Cost-Prediction/
 │
 ├── Insurence_cost_pred/
@@ -81,4 +82,4 @@ Insurance-Cost-Prediction/
 │   │
 ├── Insurence_cost_pred.pynb          # Additional notebook for experimentation or improvements
 └── README.md                         # Project documentation (this file)
-
+```
