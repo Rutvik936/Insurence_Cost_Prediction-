@@ -68,8 +68,6 @@ insurence_app.py
 ```
 ### Project Structure
 ```bash
-Insurance-Cost-Prediction/
-│
 ├── Insurence_cost_pred/
 │   ├── insurance_app.py                  # Streamlit app for insurance cost prediction
 │   ├── Insurence_Cost_Prediction_.ipynb  # Notebook for data preprocessing, training & evaluation
