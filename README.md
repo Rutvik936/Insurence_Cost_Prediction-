@@ -2,11 +2,11 @@
 
 A **Streamlit-based web application** that predicts insurance costs based on an individual's health and lifestyle factors using **Random Forest** and **XGBoost** machine learning models.
 
-# Problem Statement
+## Problem Statement
 In the healthcare and insurance domain, predicting medical insurance costs accurately is crucial for both customers and providers. The objective of this project is to build a machine learning model that estimates a person’s insurance charges based on key demographic and personal attributes such as age, gender, BMI, and region.
 This helps insurance companies in pricing policies more fairly and assists individuals in understanding factors affecting their insurance premiums.
 
-# Objective
+## Objective
 To build and deploy a machine learning model that predicts insurance costs based on user details like age, gender, BMI, and region.
 
 This project includes:
